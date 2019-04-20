@@ -2,7 +2,7 @@
 
 This repository has copies of the exams from 2010 to 2018.
 
-From 2010-2015, the exam proceed in two parts, and you answered (typically) two out of four questions in each part.
+From 2010-2015, the exam proceeded in two parts, and you answered (typically) two out of four questions in each part.
 
 From 2016 onward, the exam has been split into Option A and Option B tracks. See `2018_topics_covered.pdf` for details on each track.
 
